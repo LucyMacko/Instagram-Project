@@ -6,7 +6,7 @@ body{
 .container{
     display:inline-flexbox;
     margin: auto;
-    width:600px;
+    width:500px;
     background-color: white;
     position:relative;
 }
@@ -56,7 +56,7 @@ img{
     position:relative; 
     margin-top: 15px;
     margin-bottom: 25px;
-    padding-right: 10px;
+    padding-right: 15px;
 }
 
 .text-icons i:last-child{   
@@ -76,5 +76,6 @@ img{
 
 .description{
     padding-left: 10px;
+    padding-right:10px;
     padding-bottom:30px;
 }
